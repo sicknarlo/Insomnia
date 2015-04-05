@@ -7,7 +7,7 @@ status = ""
 
 class one():
     def inst():
-        clear = ('\n' * 50)
+        clear = ('\n' * 50) 
         print(clear)
         print("Loading.")
         time.sleep(1)
